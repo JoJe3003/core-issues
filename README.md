@@ -1,8 +1,8 @@
-﻿# cringe-trikz
+﻿# core-trikz
 
 ## Purpose
 
-This repository is designated for tracking issues and suggestions related to cringe-trikz. It serves as a centralized platform for community feedback, bug reporting, and feature requests.
+This repository is designated for tracking issues and suggestions related to core-trikz. It serves as a centralized platform for community feedback, bug reporting, and feature requests.
 
 ## Submitting an Issue
 
